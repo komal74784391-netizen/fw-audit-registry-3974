@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "policy_document": "policy/third_party_reuse_policy.md",
-  "updated": "2026-11-13",
+  "updated": "2026-11-04",
   "entries": [
     {
       "id": "ART-011",
@@ -44,12 +44,12 @@
       "name": "fw-sampling-bundle-2.4",
       "artifact_path": "artifacts/fw-sampling-bundle-2.4",
       "stated_origin": "Nimbus Telemetry team (per artifact card)",
-      "direct_source": "vendor-mirrors/harbor-research/ring-buffer-benchmark",
-      "fingerprint_file": "bench_0_5501_v2.jsonl",
-      "declared_license": "mit",
-      "status": "approved",
-      "action": "attribute_in_notice",
-      "reviewed_on": "2026-11-13"
+      "direct_source": "",
+      "fingerprint_file": "",
+      "declared_license": "",
+      "status": "pending",
+      "action": "",
+      "reviewed_on": ""
     }
   ]
 }
