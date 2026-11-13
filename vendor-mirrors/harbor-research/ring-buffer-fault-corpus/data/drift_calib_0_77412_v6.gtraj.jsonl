@@ -1,0 +1,6 @@
+{"record_id": "dc-77412-0001", "trace_id": "tr-2f19c4", "channel": "vib_x", "sample_offset": 0, "amplitude_mv": 118.5, "label_code": "NOMINAL"}
+{"record_id": "dc-77412-0002", "trace_id": "tr-2f19c4", "channel": "vib_x", "sample_offset": 128, "amplitude_mv": 121.0, "label_code": "NOMINAL"}
+{"record_id": "dc-77412-0003", "trace_id": "tr-77a0b1", "channel": "vib_y", "sample_offset": 256, "amplitude_mv": 244.8, "label_code": "IMBALANCE"}
+{"record_id": "dc-77412-0004", "trace_id": "tr-77a0b1", "channel": "vib_y", "sample_offset": 384, "amplitude_mv": 31.2, "label_code": "IMBALANCE"}
+{"record_id": "dc-77412-0005", "trace_id": "tr-9c04de", "channel": "vib_z", "sample_offset": 512, "amplitude_mv": 9.7, "label_code": "BEARING_WEAR"}
+{"record_id": "dc-77412-0006", "trace_id": "tr-9c04de", "channel": "vib_z", "sample_offset": 640, "amplitude_mv": 12.4, "label_code": "BEARING_WEAR"}

@@ -1,0 +1,13 @@
+{
+  "bundle": "fw-sampling-bundle-2.4",
+  "kind": "calibration-sample-set",
+  "received": "2026-10-28",
+  "files": [
+    {
+      "path": "drift_calib_0_77412_v6.gtraj.jsonl",
+      "sha256": "941294edaa088b71b1e8d27f473503a237118bc70898deb71a77c9d651751a34",
+      "bytes": 884
+    }
+  ],
+  "origin_note": "Adopted from the original dataset from the Nimbus Telemetry team."
+}

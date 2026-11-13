@@ -1,0 +1,55 @@
+{
+  "schema_version": 2,
+  "policy_document": "policy/third_party_reuse_policy.md",
+  "updated": "2026-11-04",
+  "entries": [
+    {
+      "id": "ART-011",
+      "name": "chart-render-kit",
+      "artifact_path": "artifacts/chart-render-kit-1.9",
+      "stated_origin": "Bluepine UI team",
+      "direct_source": "vendor-mirrors/bluepine-ui/chart-render-kit",
+      "fingerprint_file": "render_0_2104_v5.bundle.json",
+      "declared_license": "mit",
+      "status": "approved",
+      "action": "attribute_in_notice",
+      "reviewed_on": "2026-09-18"
+    },
+    {
+      "id": "ART-015",
+      "name": "log-shipper-agent",
+      "artifact_path": "artifacts/log-shipper-3.2",
+      "stated_origin": "Quartzline logging team",
+      "direct_source": "vendor-mirrors/quartzline-logging/log-shipper-agent",
+      "fingerprint_file": "ship_0_8830_v4.confpack.json",
+      "declared_license": "apache-2.0",
+      "status": "approved",
+      "action": "attribute_in_notice",
+      "reviewed_on": "2026-09-29"
+    },
+    {
+      "id": "ART-019",
+      "name": "legacy-jpeg-codec",
+      "artifact_path": "artifacts/legacy-jpeg-codec-0.9",
+      "stated_origin": "Cedarval codecs group",
+      "direct_source": "vendor-mirrors/cedarval-codecs/legacy-jpeg-codec",
+      "fingerprint_file": "jpeg_0_1120_v1.tables.json",
+      "declared_license": "none",
+      "status": "blocked",
+      "action": "remove_or_replace",
+      "reviewed_on": "2026-10-06"
+    },
+    {
+      "id": "ART-023",
+      "name": "fw-sampling-bundle-2.4",
+      "artifact_path": "artifacts/fw-sampling-bundle-2.4",
+      "stated_origin": "Nimbus Telemetry team (per artifact card)",
+      "direct_source": "",
+      "fingerprint_file": "",
+      "declared_license": "",
+      "status": "pending",
+      "action": "",
+      "reviewed_on": ""
+    }
+  ]
+}
