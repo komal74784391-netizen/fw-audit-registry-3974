@@ -44,11 +44,11 @@
       "name": "fw-sampling-bundle-2.4",
       "artifact_path": "artifacts/fw-sampling-bundle-2.4",
       "stated_origin": "Nimbus Telemetry team (per artifact card)",
-      "direct_source": "vendor-mirrors/harbor-research/ring-buffer-fault-corpus",
-      "fingerprint_file": "drift_calib_0_77412_v6.gtraj.jsonl",
-      "declared_license": "cc-by-sa-4.0",
-      "status": "review_required",
-      "action": "open_legal_review",
+      "direct_source": "vendor-mirrors/harbor-research/ring-buffer-benchmark",
+      "fingerprint_file": "bench_0_5501_v2.jsonl",
+      "declared_license": "mit",
+      "status": "approved",
+      "action": "attribute_in_notice",
       "reviewed_on": "2026-11-13"
     }
   ]
